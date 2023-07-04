@@ -10,7 +10,7 @@ function createNewRide(){
 }
 
 function saveRide(rideID, rideRecord){
-    return localStorage.setItem(rideID, JSON.stringify(rideRecord))
+    localStorage.setItem(rideID, JSON.stringify(rideRecord))
 }
 
 function getRideRecord(rideID) {
