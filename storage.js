@@ -42,3 +42,7 @@ function updateStopTime(rideID){
     rideRecord.stopTime = Date.now();
     saveRide(rideID,rideRecord);
 }
+
+function deleteRide(rideID){
+    localStorage.removeItem(rideID)
+}
