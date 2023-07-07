@@ -40,8 +40,12 @@ Não há necessidade de instalação.
 ✅ Esse projeto foi feito usando os conhecimentos básicos das linguagens: HTML, CSS e JAVASCRIPT. <br>
 ✅ Projeto responsivo.  <br>
 ✅ Tem como ultilidade medir a velocidade em tempo real, informando também o local do deslocamneto do percurso, duração, data e hora. <br>
+✅ É possível excluir o percurso <br>
+✅ No mapa, mostra o local onde foi executado o app<br>
+✅ Ao clicar no percurso, é possível ver detalhes do trajeto; <br>
 ✅ Para ter acesso ao app, basta clicar em "acessar projeo" <br>
+✅ Para uma experiência melhor, basta acessar pelo seu celular. <br>
 
 
 <h3 id="preview">🎥 Preview</h3>
-<img src="./assets/video.gif" width="600px">
+<img src="./asset/video.gif" width="600px">
