@@ -44,4 +44,4 @@ Não há necessidade de instalação.
 
 
 <h3 id="preview">🎥 Preview</h3>
-<img src="./assets/video/video.gif" width="600px">
+<img src="./assets/video.gif" width="600px">
